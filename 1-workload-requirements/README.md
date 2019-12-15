@@ -25,9 +25,13 @@
   - [Self Paced Lab - Identity management](https://docs.microsoft.com/en-gb/learn/modules/design-for-security-in-azure/3-identity-management)
 
 - [x] __identify service-oriented architectures__
+
+  - [Plularsight - Service Oriented Architectures](https://app.pluralsight.com/course-player?course=microsoft-azure-enterprise-architecture-information-gathering&author=chris-behrens&name=87dac155-b66f-4af5-b489-63b8eacb94f3&clip=0&mode=live)
+
 - [x] __identify accessibility requirements__
 
   - [Plularsight - Accessibility Requirements](https://app.pluralsight.com/course-player?clipId=40fe86cf-f9c1-4ace-87e7-863f1bc54d4b)
+
 - [x] __identify availability requirements__
 
   - [Availability patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/category/availability)
@@ -51,10 +55,16 @@
 - [x] __identify capacity planning and scalability requirements__
 
   - [Plularsight - Capacity Planning and Scalability Requirements](https://app.pluralsight.com/course-player?clipId=5a12417b-35db-450e-8b6b-5f797df22679)
+
 - [x] __identify deploy-ability requirements__
 
   - [Pluralsight - Deployability Requirements](https://app.pluralsight.com/course-player?clipId=c028929c-bbe2-46ed-8f04-8b2a5574c2af)
+
 - [x] __identify configurability__
+
+  - [Configure an App Service app in the Azure portal](https://docs.microsoft.com/en-us/azure/app-service/configure-common)
+
+  - [What is Azure App Configuration?](https://docs.microsoft.com/en-us/azure/azure-app-configuration/overview)
 - [x] __identify governance requirements__
 
   - [Plularsight - Governance Requirements](https://app.pluralsight.com/course-player?clipId=a12acd37-4df1-4f2a-a66c-f598ded13841)

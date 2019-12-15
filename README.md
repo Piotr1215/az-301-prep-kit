@@ -28,3 +28,25 @@ See below announcement from exam page
 * [ ] [Design for deployment, migration, and integration (10-15%)](/5-deploy-migrate-integrate/README.md)
 
 * [ ] [Design an infrastructure strategy (15-20%)](/6-infrastructure/README.md)
+
+## Resources
+
+This exam is different than AZ-300, it has no labs and questions are geared towards design and architecture best practices in Azure rather than concrete implementaitons. Still, it's important to  practice yourself in the portal, but not as essencial as for AZ-300.
+
+1. [Plularsight Courses](https://app.pluralsight.com/paths/certificate/microsoft-azure-architect-technologies-az-301)
+
+2. [Udemy "AZ-301 Azure Architect Design Exam Prep" by Scott Duffy](https://www.udemy.com/course/az301-azure/)
+
+3. [Official Microsoft exam page with free learning materials](https://docs.microsoft.com/en-gb/learn/certifications/exams/az-301)
+
+4. [Azure Architecture Center](https://docs.microsoft.com/en-gb/azure/architecture/)
+
+5. [Self paced Azure labs](https://www.microsoft.com/HandsOnLabs/SelfPacedLabs)
+
+6. [Azure documentation](https://docs.microsoft.com/en-us/azure/)
+
+7. [Azure Tips and Tricks Youtube playlist curated by Microsoft](https://www.youtube.com/playlist?list=PLLasX02E8BPCNCK8Thcxu-Y-XcBUbhFWC)
+
+8. [Video from MS Ignite with tips on taking the exam](https://myignite.techcommunity.microsoft.com/sessions/78629?source=sessions)
+
+9. [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
