@@ -10,7 +10,7 @@ Feel free to fork or submit PR, but please stick to the format.
 
 ## Content & Learning Progress
 
-Exam curriculum is based on material update from __December 4, 2019.__. There is also a file in [resources folder](/resources/README.me) that contains unorganized useful information gathered during learning process.
+Exam curriculum is based on material update from __December 4, 2019.__. There is also a file in [resources folder](/resources/README.md) that contains unorganized useful information gathered during learning process.
 
 See below announcement from exam page:
 
