@@ -65,15 +65,19 @@
   - [Configure an App Service app in the Azure portal](https://docs.microsoft.com/en-us/azure/app-service/configure-common)
 
   - [What is Azure App Configuration?](https://docs.microsoft.com/en-us/azure/azure-app-configuration/overview)
+
 - [x] __identify governance requirements__
 
   - [Plularsight - Governance Requirements](https://app.pluralsight.com/course-player?clipId=a12acd37-4df1-4f2a-a66c-f598ded13841)
+
 - [x] __identify maintainability requirements__
 
   - [Plularsight - Maintainability Requirements](https://app.pluralsight.com/course-player?clipId=400d6f60-2141-423c-b37a-605814b4c1f8)
+
 - [x] __identify security requirements__
 
   - [Plularsight - Security Requirements](https://app.pluralsight.com/course-player?clipId=5a12417b-35db-450e-8b6b-5f797df22679)
+
 - [x] __identify sizing requirements__
 - [x] __recommend changes during project execution__
 - [x] __evaluate products and services to align with solution__

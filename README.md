@@ -12,7 +12,7 @@ Feel free to fork or submit PR, but please stick to the format.
 
 Exam curriculum is based on material update from __December 4, 2019.__
 
-See below announcement from exam page
+See below announcement from exam page:
 
 > Exam AZ-301: Microsoft Azure Architect Design
 > The content of this exam was updated on __December 4, 2019.__ Please download the Skills measured document below to see what changed.
@@ -33,7 +33,7 @@ See below announcement from exam page
 
 This exam is different than AZ-300, it has no labs and questions are geared towards design and architecture best practices in Azure rather than concrete implementaitons. Still, it's important to  practice yourself in the portal, but not as essencial as for AZ-300.
 
-1. [Plularsight Courses](https://app.pluralsight.com/paths/certificate/microsoft-azure-architect-technologies-az-301)
+1. [Plularsight Courses](https://app.pluralsight.com/paths/certificate/microsoft-azure-architect-design-az-301)
 
 2. [Udemy "AZ-301 Azure Architect Design Exam Prep" by Scott Duffy](https://www.udemy.com/course/az301-azure/)
 
