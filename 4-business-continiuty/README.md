@@ -15,6 +15,16 @@
 
 ## Design for high availability
 
+|% Uptime|Downtime per week|Downtime per month|Downtime per year|
+|--- |--- |--- |--- |
+|99%|1.68 hours|7.2 hours|3.65 days|
+|99.9%|10 minutes|43.2 minutes|8.76 hours|
+|99.95%|5 minutes|21.6 minutes|4.38 hours|
+|99.99%|1 minute|4.32 minutes|52.56 minutes|
+|99.999%|6 seconds|26 seconds|5.26 minutes|
+
+![Load Balancing Decision Tree](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/images/load-balancing-decision-tree.png)
+
 - [x] __design for application redundancy__
 - [x] __design for autoscaling__
 - [x] __design for data center and fault domain redundancy__
