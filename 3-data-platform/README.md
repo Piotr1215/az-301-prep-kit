@@ -1,5 +1,13 @@
 # Design a data platform solution (15-20%)
 
+|Storage account type|Supported services|Supported performance tiers|Supported access tiers|Replication options|Deployment model1|Encryption2|
+|--- |--- |--- |--- |--- |--- |--- |
+|General-purpose V2|Blob, File, Queue, Table, Disk, and Data Lake Gen26|Standard, Premium5|Hot, Cool, Archive3|LRS, GRS, RA-GRS, ZRS, GZRS (preview), RA-GZRS (preview)4|Resource Manager|Encrypted|
+|General-purpose V1|Blob, File, Queue, Table, and Disk|Standard, Premium5|N/A|LRS, GRS, RA-GRS|Resource Manager, Classic|Encrypted|
+|BlockBlobStorage|Blob (block blobs and append blobs only)|Premium|N/A|LRS, ZRS4|Resource Manager|Encrypted|
+|FileStorage|File only|Premium|N/A|LRS, ZRS4|Resource Manager|Encrypted|
+|BlobStorage|Blob (block blobs and append blobs only)|Standard|Hot, Cool, Archive3|LRS, GRS, RA-GRS|Resource Manager|Encrypted|
+
 ## Design a data management strategy
 
 - [x] __choose between managed and unmanaged data store__
