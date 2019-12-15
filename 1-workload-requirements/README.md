@@ -149,9 +149,37 @@
 ## Design an auditing and monitoring strategy
 
 - [x] __define logical groupings (tags) for resources to be monitored__
+
+  - [Use tags in azure Youtube](https://www.youtube.com/watch?v=VFnyFot1UkM)
+
+  - [Azure Documentation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-using-tags)
+
+  - Examples of resources organization using tags:
+
+    - Billing account
+    - Environment
+    - CreatedBy
+
 - [x] __determine levels and storage locations for logs__
+
+  - [Query Azure storage logs with Azure Monitor Log Analytics](https://www.youtube.com/watch?v=I9fx5bFMYjQ)
+
 - [x] __plan for integration with monitoring tools__
+
+  - [Plularsight - Planning for integration with Monitoring Tools](https://app.pluralsight.com/course-player?clipId=a6f2fa39-f320-4e5b-87e4-8de5df82bdf8)
+
 - [x] __recommend appropriate monitoring tool(s) for a solution__
+
+  - [Plularsight - Recommending appropriate Monitoring Tools](https://app.pluralsight.com/course-player?clipId=ec3ddb00-13ed-45e0-a119-c8a4b71639a4)
+
 - [x] __specify mechanism for event routing and escalation__
+
+  - [Plularsight - Specify mechanism for event routing and escalation](https://app.pluralsight.com/course-player?clipId=43ecc291-2788-46c7-acc1-99500056bb63)
+
 - [x] __design auditing for compliance requirements__
+
+  - [Tutorial: Improve your regulatory compliance](https://docs.microsoft.com/en-us/azure/security-center/security-center-compliance-dashboard
+  )
 - [x] __design auditing policies and traceability requirements__
+
+  - [Azure policies](https://docs.microsoft.com/en-us/azure/governance/policy/overview)
