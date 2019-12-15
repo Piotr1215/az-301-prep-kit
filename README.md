@@ -50,3 +50,27 @@ This exam is different than AZ-300, it has no labs and questions are geared towa
 8. [Video from MS Ignite with tips on taking the exam](https://myignite.techcommunity.microsoft.com/sessions/78629?source=sessions)
 
 9. [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+
+## Prepare for the exam
+
+When I was confident I have enought preparation and understand the material, it was time to **schedule the exam**. Scheduling exam was important to set a date in calendar and make sure I stay focus and plan my time well.
+
+**10 days** from exam I scheduled final preparation plan focusing on each section as below. Each time I would use the links, refresh core info, do a lab and most importantly go to Azure Portal and try to perform given task myself. I also used mindmaps and OneNote to keep the learning material organized.
+
+* Day 1: Determine workload requirements (10-15%)
+
+* Days 2-3: Design for identity and security (20-25%)
+
+* Day 4: Design a data platform solution (15-20%)
+
+* Day 5: Design a business continuity strategy (15-20%)
+
+* Day 6: Design for deployment, migration, and integration (10-15%)
+
+* Day 7: Design an infrastructure strategy (15-20%)
+
+* Day 8-9: Practice exams and mock questions, final review. Please **don't** use so called braindumps. I used [AZ-301: The complete practice test, Azure Architect Design](https://www.udemy.com/course/exam-az-301-microsoft-azure-architect-design-test/) (bought cheap on Udemy during Cyber Week)
+
+* Day 10: EXAM! Make sure to get plenty of sleep and schedule the exam in the time when you are most active (for me it is late morning)
+
+### **Good luck :)**
