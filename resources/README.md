@@ -27,6 +27,8 @@ This section contains random important topics for easier access.
 
 ## Characteristics of different redundancy options
 
+![Redundancy Options](https://github.com/Piotr1215/azure-architect-exams-resources/blob/master/RedundancyOptionsDiagram.png?raw=true)
+
 ### Redundancy Options Scenarios
 
 |Scenario|LRS|ZRS|GRS/RA-GRS|GZRS/RA-GZRS (preview)|
@@ -63,4 +65,3 @@ This section contains random important topics for easier access.
 |Azure Load Balancer|Regional|non-HTTP(S)|
 
 ![Load Balancers Decision Tree](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/images/load-balancing-decision-tree.png)
-
