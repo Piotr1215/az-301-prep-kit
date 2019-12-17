@@ -30,6 +30,8 @@
 
   - [Criteria for choosing a data store](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-comparison)
 
+  - [Lab - classify your data](https://docs.microsoft.com/en-gb/learn/modules/choose-storage-approach-in-azure/2-classify-data)
+
   - Choose relational database for strong consistency and integrity
 
   - Choose non-relational database for scalability and flexibility
@@ -96,12 +98,54 @@
 ## Design a data protection strategy
 
 - [x] __recommend geographic data storage__
+
+||LRS|ZRS|GRS|RA-GRS|
+|--- |--- |--- |--- |--- |
+|Overview|Replicates data in a single datacenter|Stores copies of data across multiple datacenters|Stores copies in a local datacenter, like LRS, but then stores three more copies in a datacenter in another region|Same as GRS, but offers read access in the secondary datacenter in the other region|
+|Data copies|3|3|6|6|
+|Use case|Ensures that your data is highly available but, for compliance reasons, must be kept local|A higher durability option for block storage, where data can stay in only one region|Where you need to ensure that your data and systems are always available despite datacenter or region outages|Where your applications (especially those with many read requests) can read data from other regions, but also to ensure that read operations are always available even if the primary region is down|
+
 - [x] __design an encryption strategy for data at rest__
+
+  - [Azure Storage encryption for data at rest](https://docs.microsoft.com/en-us/azure/storage/common/storage-service-encryption)
+
+  - [Azure Data Encryption-at-Rest](https://docs.microsoft.com/en-us/azure/security/fundamentals/encryption-atrest)
+
+  - [TDE - Transparent data encryption for SQL Database and Data Warehouse](https://docs.microsoft.com/en-us/azure/sql-database/transparent-data-encryption-azure-sql?tabs=azure-portal)
+
 - [x] __design an encryption strategy for data in transmission__
+
+  - Force SSL connections to data storage
+
+  - Use VPN (site-to-site or point-to-site) if connecting from outside Azure network
+
+  - [Plularsight - data encryption in transit](https://app.pluralsight.com/course-player?clipId=6b86cafd-8965-4da6-86d5-ef90ad5cb531)
+
+  - [Dynamic data masking for Azure SQL Database and Data Warehouse](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-dynamic-data-masking-get-started)
+
 - [x] __design an encryption strategy for data in use__
+
+  - [Plularsight - data encryption in use](https://app.pluralsight.com/course-player?clipId=2c5186ec-3a3a-4bbb-9cf2-72a8a65561e4)
+
 - [x] __design a scalability strategy for data__
+
+  - [Plularsight - data scalability](https://app.pluralsight.com/course-player?clipId=67f63322-31a8-4575-bf1f-1b3f3d966030)
+
+  - [Scaling out with Azure SQL Database](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-elastic-scale-introduction)
+
 - [x] __design secure access to data__
+
+  - Secure access to data on network level using [Virtual Network service endpoints](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoints-overview)
+
+  - Whitelist or blacklist IP ranges using [Azure SQL Database and Azure SQL Data Warehouse IP firewall rules](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-firewall-configure)
+
+  - Use [Azure Active Directory](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-aad-authentication-configure?tabs=azure-powershell) to access SQL database
+
+  - [Plularsight - secure data access](https://app.pluralsight.com/course-player?clipId=70fa078c-87dc-4880-b4a6-625617d1e902)
+
 - [x] __design a data loss prevention (DLP) policy__
+
+  - [Plularsight - data loss prevention](https://app.pluralsight.com/course-player?clipId=cfd5c812-961d-4d43-bd29-28603f494132)
 
 ## Design and document data flows
 

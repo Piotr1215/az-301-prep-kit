@@ -22,7 +22,6 @@ This section contains random important topics for easier access.
 - 3 per region (not all regions supported)
 - Separate power source, network and cooling
 
-
 ![Availability Zone](https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_690/https://cloudopszone.com/wp-content/uploads/2018/08/AvailabilityZone.png)
 
 ## Characteristics of different redundancy options
