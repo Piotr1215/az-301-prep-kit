@@ -51,6 +51,8 @@ This exam is different than AZ-300, it has no labs and questions are geared towa
 
 9. [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 
+10. [Azure Learning - series of labs and learning resources accesible from Azure portal](https://portal.azure.com/#blade/Microsoft_Azure_Education/EducationMenuBlade/learning)
+
 ## Prepare for the exam
 
 When I was confident I have enought preparation and understand the material, it was time to **schedule the exam**. Scheduling exam was important to set a date in calendar and make sure I stay focus and plan my time well.
