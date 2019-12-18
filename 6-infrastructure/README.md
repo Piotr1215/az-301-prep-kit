@@ -2,6 +2,12 @@
 
 ## Design a storage strategy
 
+- Choose managed storage over unmanaged storage
+
+- Know differences between Premium and Standard storage (disks)
+
+- Different storage access tiers: premium, hot (standard), cool, archive
+
 - [x] __design a storage provisioning strategy__
 - [x] __design storage access strategy__
 - [x] __identify storage requirements__

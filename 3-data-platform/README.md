@@ -13,8 +13,10 @@
 - [x] __choose between managed and unmanaged data store__
 
   - Unmanaged Data Stores (choose when need high performance tuning or hight degree of control over hosting environment and offering)
-    - Table Storage
-    - Blob Storage
+    - Table
+    - Blob
+    - File
+    - Queue
     - SQL Server in VM
     - Orable DB in VM
 
