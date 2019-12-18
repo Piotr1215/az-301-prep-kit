@@ -149,6 +149,8 @@
 
 ## Design and document data flows
 
+- This section is covered by [Plularsight - Design and Document Data Flows with Microsoft Azure](https://app.pluralsight.com/library/courses/microsoft-azure-data-flows-document-design/table-of-contents)
+
 - [x] __identify data flow requirements__
 - [x] __create a data flow diagram__
 - [x] __design a data flow to meet business requirements__
@@ -156,6 +158,16 @@
 - [x] __design a data import and export strategy__
 
 ## Design a monitoring strategy for the data platform
+
+- [Azure SQL Monitoring and tuning](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-monitoring-tuning-index)
+
+- [Query Performance Insight for Azure SQL Database](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-query-performance)
+
+- **General advice:** For any monitoring solution, check Azure Advisor and Azure Monitor, from there you can often connect to resources to setup additional monitoring
+
+- [Enable automatic tuning to monitor queries and improve workload performance](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-automatic-tuning-enable)
+
+- [Troubleshoot Azure SQL Database performance issues with Intelligent Insights](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-intelligent-insights-troubleshoot-performance)
 
 - [x] __design for alert notifications__
 - [x] __design an alert and metrics strategy__
