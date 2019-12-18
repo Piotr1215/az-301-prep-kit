@@ -93,7 +93,7 @@ Resources also contain recommendations how to make best use of each one. At leas
 
      * Select "Products" and what you want to learn about. From there you will have access to full documentation and other areas. I highly recommend checking out the "Pricing" section as well as "FAQ", they both contain information useful during the exam.
 
-        ![Solutions](https://github.com/Piotr1215/azure-architect-exams-resources/blob/master/use-azure-portal-solutions.png?raw=true)
+        ![Products](https://raw.githubusercontent.com/Piotr1215/azure-architect-exams-resources/master/use-azure-portal.png)
 
      * Another very useful resource are Solutions -> Architectures. This gives you a good overview how reference architectures are setup on Azure and helps a lot with the exam.
 
