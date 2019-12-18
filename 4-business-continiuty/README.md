@@ -2,7 +2,17 @@
 
 ## Design a site recovery strategy
 
+![Azure Site Recovery](https://azurecomcdn.azureedge.net/cvt-e39d2318588fa389b7221a303fe6d12be1bd24c86e1600ad32ae68cddc73c67e/images/page/services/site-recovery/asr-architecture.png)
+
+- [Azure Site Recovery](https://azure.microsoft.com/en-gb/services/site-recovery/)
+
 - [x] __design a recovery solution__
+
+  - Plan and be ready to deploy to another region without using the resources until needed
+    - Create Recovery Services Vault
+
+  - Recovery can be done between Azure regions or on-prem data center and Azure region
+
 - [x] __design a site recovery replication policy__
 - [x] __design for site recovery capacity__
 - [x] __design for storage replication__
