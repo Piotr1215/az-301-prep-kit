@@ -33,25 +33,71 @@ See below announcement from exam page:
 
 This exam is different than AZ-300, it has no labs and questions are geared towards design and architecture best practices in Azure rather than concrete implementaitons. Still, it's important to  practice yourself in the portal, but not as essencial as for AZ-300.
 
+Resources also contain recommendations how to make best use of each one. At least this was how I was using each resource and it yielded good results.
+
 1. [Plularsight Courses](https://app.pluralsight.com/paths/certificate/microsoft-azure-architect-design-az-301)
+
+How to use:
+
+* View while learning certain topic: Links to videos from Plularsight are scattered across README files
+
+* Watch on demand
 
 2. [Udemy "AZ-301 Azure Architect Design Exam Prep" by Scott Duffy](https://www.udemy.com/course/az301-azure/)
 
+How to use:
+
+* Watch relevant section and try to follow along on Azure Portal
+
 3. [Official Microsoft exam page with free learning materials](https://docs.microsoft.com/en-gb/learn/certifications/exams/az-301)
+
+How to use:
+
+* Perform labs and/or read the documentation: Links are scattered across README files
 
 4. [Azure Architecture Center](https://docs.microsoft.com/en-gb/azure/architecture/)
 
+How to use:
+
+* If you are interested in learning more about given topic, look it up on the architecture center and study
+
 5. [Self paced Azure labs](https://www.microsoft.com/HandsOnLabs/SelfPacedLabs)
 
-6. [Azure documentation](https://docs.microsoft.com/en-us/azure/)
+How to use:
 
-7. [Azure Tips and Tricks Youtube playlist curated by Microsoft](https://www.youtube.com/playlist?list=PLLasX02E8BPCNCK8Thcxu-Y-XcBUbhFWC)
+* Perform labs and/or read the documentation: Links are scattered across README files
 
-8. [Video from MS Ignite with tips on taking the exam](https://myignite.techcommunity.microsoft.com/sessions/78629?source=sessions)
+6. [Azure Tips and Tricks Youtube playlist curated by Microsoft](https://www.youtube.com/playlist?list=PLLasX02E8BPCNCK8Thcxu-Y-XcBUbhFWC)
 
-9. [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+How to use:
 
-10. [Azure Learning - series of labs and learning resources accesible from Azure portal](https://portal.azure.com/#blade/Microsoft_Azure_Education/EducationMenuBlade/learning)
+* Choose videos you are interested in and watch, most of the videos are very short and have enought info to help you understand the topic
+
+7. [Video from MS Ignite with tips on taking the exam](https://myignite.techcommunity.microsoft.com/sessions/78629?source=sessions)
+
+How to use:
+
+* Watch one time to understand exam requirements and learn about varioius tips and tricks
+
+8. [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+
+How to use:
+
+* Use as support resource if you want to know more about any given topic
+
+9. [Azure Landing Page](https://azure.microsoft.com/en-ca/)
+
+How to use:
+
+* I left it as last, but this is main resource you will be working with most of the time
+
+* Select "Products" and what you want to learn about. From there you will have access to full documentation and other areas. I highly recommend checking out the "Pricing" section as well as "FAQ", they both contain information useful during the exam.
+
+* Another very useful resource are Solutions -> Architectures. This gives you a good overview how reference architectures are setup on Azure and helps a lot with the exam.
+
+![Solutions](https://github.com/Piotr1215/azure-architect-exams-resources/blob/master/use-azure-portal-solutions.png?raw=true)
+
+![Products](https://github.com/Piotr1215/azure-architect-exams-resources/blob/master/use-azure-portal.png?raw=true)
 
 ## Prepare for the exam
 
