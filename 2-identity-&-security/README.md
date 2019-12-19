@@ -1,5 +1,7 @@
 # Design for identity and security (20-25%)
 
+[AZURE ACTIVE DIRECTORY DEVELOPER SUPPORT TEAM](https://blogs.aaddevsup.xyz/)
+
 ## Design identity management
 
 - [x] __choose an identity management approach__
