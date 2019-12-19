@@ -14,7 +14,9 @@
 
 - [x] __design an identity delegation strategy__
 
-  - [Delegate administration in Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/roles-concept-delegation)
+  - [Service-to-service calls that use delegated user identity in the On-Behalf-Of flow](https://docs.microsoft.com/en-us/azure/active-directory/develop/v1-oauth2-on-behalf-of-flow)
+
+  - [UNDERSTANDING AZURE AD’S ON-BEHALF-OF FLOW (AKA OBO FLOW)](https://blogs.aaddevsup.xyz/2019/08/understanding-azure-ads-on-behalf-of-flow-aka-obo-flow/)
 
 - [x] __design an identity repository__
 
