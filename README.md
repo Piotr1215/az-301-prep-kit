@@ -61,11 +61,7 @@ Resources also contain recommendations how to make best use of each one. At leas
 
     **How to use:** View while learning certain topic: Links to videos from Plularsight are scattered across README files or watch on demand.
 
-7. [Udemy "AZ-301 Azure Architect Design Exam Prep" by Scott Duffy](https://www.udemy.com/course/az301-azure/)
-
-    **How to use:** Watch relevant section and try to follow along on Azure Portal.
-
-8. [LinkedIn Learning](https://www.linkedin.com/learning/me)
+7. [LinkedIn Learning](https://www.linkedin.com/learning/me)
 
     **How to use:**
 
@@ -76,6 +72,10 @@ Resources also contain recommendations how to make best use of each one. At leas
     * Search topic you are interested in (copy/paste from exam topics) and watch videos
 
     * Content is detailed and almost always has a lot of Azure Portal print screens
+
+8. [Udemy "AZ-301 Azure Architect Design Exam Prep" by Scott Duffy](https://www.udemy.com/course/az301-azure/)
+
+    **How to use:** Watch relevant section and try to follow along on Azure Portal.
 
 9. [Azure Landing Page](https://azure.microsoft.com/en-ca/)
 
