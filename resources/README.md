@@ -1,4 +1,4 @@
-# Frequent questions
+# Frequent questions - need to memorize
 
 This section contains random important topics for easier access.
 
@@ -14,6 +14,7 @@ This section contains random important topics for easier access.
 
 - No additional cost
 - Same data center
+- At least 2 VMs in set
 
 ![Availability Set](https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_690/https://cloudopszone.com/wp-content/uploads/2018/08/AvailabilitySet.png)
 
@@ -64,3 +65,7 @@ This section contains random important topics for easier access.
 |Azure Load Balancer|Regional|non-HTTP(S)|
 
 ![Load Balancers Decision Tree](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/images/load-balancing-decision-tree.png)
+
+## Understand SKUs for App Service Plans
+
+![App Service Plans SKUs](https://github.com/Piotr1215/azure-architect-exams-resources/blob/master/App-Plan-SKU.png?raw=true)
