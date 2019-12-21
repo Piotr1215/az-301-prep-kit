@@ -2,6 +2,8 @@
 
 ## Design deployments
 
+[Plularsight - Designing Deployments in Microsoft Azure](https://app.pluralsight.com/player?course=microsoft-azure-deployments-designing&author=greg-shields&name=6cfd39d2-986b-4c5e-bb64-3abc65ae6135&clip=0)
+
 - [x] __design a compute deployment strategy__
 
   - CI/CD pipelines with AzureDevOps
@@ -10,7 +12,7 @@
 
 - [x] __design a container deployment strategy__
 
-  - Azure container registry
+  - [Azure container registry](https://azure.microsoft.com/en-us/services/container-registry/)
 
 - [x] __design a data platform deployment strategy__
 
@@ -35,6 +37,8 @@
   - GitHub Actions
 
 ## Design migrations
+
+- [Plularsight - Designing Migrations in Microsoft Azure](https://app.pluralsight.com/player?course=microsoft-azure-migrations-designing&author=greg-shields&name=f8c92b4d-e41e-4f07-a90b-d472e8efcea1&clip=0)
 
 - Visit [Azure migration center](https://azure.microsoft.com/en-ca/migration/) for more details about migrations
 

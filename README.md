@@ -87,7 +87,7 @@ Resources also contain recommendations how to make best use of each one. At leas
 
         ![Products](https://raw.githubusercontent.com/Piotr1215/azure-architect-exams-resources/master/use-azure-portal.png)
 
-    * Another very useful resource are Solutions -> Solution Architectures. This gives you a good overview how reference architectures are setup on Azure and helps a lot with the exam. Some of them have even source code and ARM templates on GitHub as well as Visio and other diagrams to help better understand the solution.
+    * Another very useful resource are Solutions -> Solution Architectures. This gives you a good overview how reference architectures are setup on Azure and helps a lot with the exam. Some of them have even source code and ARM templates on GitHub as well as Visio and other diagrams to help better understand the solution. For example, it's much easier to learn about Web Apps with a [reference architecture to play with](https://docs.microsoft.com/en-gb/azure/architecture/reference-architectures/app-service-web-app/basic-web-app).
 
         ![Solutions](https://github.com/Piotr1215/azure-architect-exams-resources/blob/master/azure-reference-architectures.png?raw=true)
 
