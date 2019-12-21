@@ -29,7 +29,7 @@ See below announcement from exam page:
 
 * [x] [Design for deployment, migration, and integration (10-15%)](/5-deploy-migrate-integrate/README.md)
 
-* [ ] [Design an infrastructure strategy (15-20%)](/6-infrastructure/README.md)
+* [x] [Design an infrastructure strategy (15-20%)](/6-infrastructure/README.md)
 
 ## Resources
 
@@ -95,7 +95,57 @@ Resources also contain recommendations how to make best use of each one. At leas
 
 10. This repo of course :). Use GitHub search functionality to find quickly what you need or simply navigate through README files.
 
-## Prepare for the exam
+## Exam preparation tips
+
+### #1: Understand exam structure
+
+Az-300 is focusing on practical usecases of Azure technologies. Exam has following characteristics:
+
+1. Questions: 40-60 questions
+
+   * Some questions are worth 1 point
+
+   * Some questions cannot be skipped
+
+   * There are different types of questions: multiple-choice, build list, hot area, drag and drop, reorder etc
+
+   * There are also Performance based questions (labs) to be done in Azure portal
+
+   * Questions are often in context of Case Studies where you need to gather and understand information across multiple sources
+
+2. Duration: 3,5 hours
+
+   * Schedule 30 minutes for reading and understangin instructions and rest for actal exam.
+
+   * Take your time with the questions, it is important to read carefully with understanding. I have finished the exam more than 1 hour before end time, so there is plenty of time.
+
+### #2: Learn how to manipulate resources on Azure using command line tools and Azure ARM templates
+
+I had maybe 2-3 questions with some powershell commands and none with azure CLI, but of course each exam is different, so it's best to stay safe and learn this as well.
+
+* Use `az interactive` to enable CLI auto completion and helpful tips
+
+* Use `powershell`, get help on commands and understand the order of command-lets (first create resource group, etc)
+
+### #3: Preview features are NOT included in the exam curriculum
+
+Preview features are not included, but you should keep an eye on the exam page and check for updates. For example, while I was preparing for the exam it has been updated and some preview features are now GA.
+
+### #4: Always answer all the questions. There is no penalty for wrong answers
+
+### #5: Before you schedule the exam, check for offers
+
+* [Exam with retake](https://eu1.mindhub.com/microsoft-exam-replay-mcp-exam-plus-retake/p/Microsoft-Exam-Replay?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink3)
+
+* [Exam with retake and practice test](https://eu1.mindhub.com/microsoft-exam-replay-with-practice-test-mcp-exam/p/Microsoft-Exam-Replay-PT?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink)
+
+### #6: Practice key components using Azure Portal, there will be practice tests
+
+You need to be very familiar with Azure Portal, know how to search for resources and create them quickly. Make use of tooltips (usually under small "?" icon), they often explain details you will need to finish the lab in case you don't remember details for a service or resource.
+
+* [Create free account on Azure and practice!](https://azure.microsoft.com/en-us/free/)
+
+### #7: Schedule exam and create and follow preparation plan
 
 When I was confident I have enought preparation and understand the material, it was time to **schedule the exam**. Scheduling exam was important to set a date in calendar and make sure I stay focus and plan my time well.
 
