@@ -167,4 +167,4 @@ When I was confident I have enought preparation and understand the material, it 
 
 * Day 10: EXAM! Make sure to get plenty of sleep and schedule the exam in the time when you are most active (for me it is late morning)
 
-### **Good luck :)
+### Good luck :)
