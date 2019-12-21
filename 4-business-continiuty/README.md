@@ -47,6 +47,8 @@
 
   - [Business continuity and disaster recovery (BCDR): Azure Paired Regions](https://docs.microsoft.com/en-us/azure/best-practices-availability-paired-regions)
 
+    - Azure does not deploy/upgrage to both paired regions simultaniously
+
 ## Design for high availability
 
 |% Uptime|Downtime per week|Downtime per month|Downtime per year|
