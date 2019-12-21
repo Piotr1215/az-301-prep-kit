@@ -8,6 +8,8 @@ You can clone this repo and mark your progress. If you want use this repo as a s
 
 Feel free to fork or submit PR, but please stick to the format.
 
+I took a slightly different approach compared to creating learning notes for AZ-300. On top of adding just links, I also started adding my own notes and observations, so the repo will continue to evolve as I learn more about Azure and add my experience and hopefully you dear reader might add yours too.
+
 ## Content & Learning Progress
 
 Exam curriculum is based on material update from __December 4, 2019.__. There is also a file in [resources folder](/resources/README.md) that contains unorganized useful information gathered during learning process that needs to be **memorized** or is known to be needed to answer questions.
@@ -17,15 +19,15 @@ See below announcement from exam page:
 > Exam AZ-301: Microsoft Azure Architect Design
 > The content of this exam was updated on __December 4, 2019.__ Please download the Skills measured document below to see what changed.
 
-* [ ] [Determine workload requirements (10-15%)](/1-workload-requirements/README.md)
+* [x] [Determine workload requirements (10-15%)](/1-workload-requirements/README.md)
 
-* [ ] [Design for identity and security (20-25%)](/2-identity-&-security/README.md)
+* [x] [Design for identity and security (20-25%)](/2-identity-&-security/README.md)
 
-* [ ] [Design a data platform solution (15-20%)](/3-data-platform/README.md)
+* [x] [Design a data platform solution (15-20%)](/3-data-platform/README.md)
 
-* [ ] [Design a business continuity strategy (15-20%)](/4-business-continiuty/README.md)
+* [x] [Design a business continuity strategy (15-20%)](/4-business-continiuty/README.md)
 
-* [ ] [Design for deployment, migration, and integration (10-15%)](/5-deploy-migrate-integrate/README.md)
+* [x] [Design for deployment, migration, and integration (10-15%)](/5-deploy-migrate-integrate/README.md)
 
 * [ ] [Design an infrastructure strategy (15-20%)](/6-infrastructure/README.md)
 
@@ -90,6 +92,8 @@ Resources also contain recommendations how to make best use of each one. At leas
     * Another very useful resource are Solutions -> Solution Architectures. This gives you a good overview how reference architectures are setup on Azure and helps a lot with the exam. Some of them have even source code and ARM templates on GitHub as well as Visio and other diagrams to help better understand the solution. For example, it's much easier to learn about Web Apps with a [reference architecture to play with](https://docs.microsoft.com/en-gb/azure/architecture/reference-architectures/app-service-web-app/basic-web-app).
 
         ![Solutions](https://github.com/Piotr1215/azure-architect-exams-resources/blob/master/azure-reference-architectures.png?raw=true)
+
+10. This repo of course :). Use GitHub search functionality to find quickly what you need or simply navigate through README files.
 
 ## Prepare for the exam
 
