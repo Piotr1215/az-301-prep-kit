@@ -6,7 +6,9 @@ This section contains random important topics for easier access.
 
 During learning I used mindmaps to help memorizing visual content. Mindmaps use XMind software and are shared here_
 
-**![Networking Overview](https://www.xmind.net/m/UkvfGf/)**
+- [Networking Overview](https://www.xmind.net/m/UkvfGf/)
+
+<iframe src='https://www.xmind.net/embed/UkvfGf/' width='750' height='540' frameborder='0' scrolling='no' allowfullscreen="true"></iframe>
 
 ## Differences between Availability Set and Availability Zone
 
