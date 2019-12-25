@@ -2,6 +2,12 @@
 
 This section contains random important topics for easier access.
 
+## Mindmaps
+
+During learning I used mindmaps to help memorizing visual content. Mindmaps use XMind software and are shared here_
+
+**![Networking Overview](https://www.xmind.net/m/UkvfGf/)**
+
 ## Differences between Availability Set and Availability Zone
 
 |||
