@@ -78,6 +78,8 @@ During learning I used mindmaps to help memorizing visual content. Mindmaps use 
 
 ## Monitoring and logging
 
+![Azure Monitor](https://docs.microsoft.com/en-gb/azure/azure-monitor/media/overview/overview.png)
+
 ||Azure Diagnostic Extension|Log Analytics agent|Dependency agent|
 |--- |--- |--- |--- |
 |Environments supported|Azure|AzureOther cloudOn-premises|AzureOther cloudOn-premises|
