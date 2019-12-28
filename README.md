@@ -33,7 +33,7 @@ See below announcement from exam page:
 
 ## Resources
 
-This exam is different than AZ-300, it has no labs and questions are geared towards design and architecture best practices in Azure rather than concrete implementaitons. Still, it's important to  practice yourself in the portal, but not as essencial as for AZ-300.
+This exam is different than AZ-300, questions are geared towards design and architecture best practices in Azure rather than concrete implementaitons. Still, it's important to  practice yourself in the portal, but not as essencial as for AZ-300.
 
 Resources also contain recommendations how to make best use of each one. At least this was how I was using each resource and it yielded good results.
 
