@@ -33,7 +33,7 @@ See below announcement from exam page:
 
 ## Resources
 
-This exam is different than AZ-300, questions are geared towards design and architecture best practices in Azure rather than concrete implementaitons. Still, it's important to  practice yourself in the portal, but not as essencial as for AZ-300.
+This exam is different than AZ-300, questions are geared towards design and architecture best practices in Azure rather than concrete implementations. Still, it's important to  practice yourself in the portal, but not as essential as for AZ-300.
 
 Resources also contain recommendations how to make best use of each one. At least this was how I was using each resource and it yielded good results.
 
@@ -99,7 +99,7 @@ Resources also contain recommendations how to make best use of each one. At leas
 
 ### #1: Understand exam structure
 
-Az-300 is focusing on practical usecases of Azure technologies. Exam has following characteristics:
+Az-301 is focusing on design strategies and architecture using Azure services and technologies. Exam has following characteristics:
 
 1. Questions: 40-60 questions
 
@@ -121,7 +121,7 @@ Az-300 is focusing on practical usecases of Azure technologies. Exam has followi
 
 ### #2: Learn how to manipulate resources on Azure using command line tools and Azure ARM templates
 
-I had maybe 2-3 questions with some powershell commands and none with azure CLI, but of course each exam is different, so it's best to stay safe and learn this as well.
+I had no questions where I had to use powershell or Azure CLI , but of course each exam is different, so it's best to stay safe and learn this as well.
 
 * Use `az interactive` to enable CLI auto completion and helpful tips
 
@@ -141,7 +141,7 @@ Preview features are not included, but you should keep an eye on the exam page a
 
 ### #6: Practice key components using Azure Portal, there will be practice tests
 
-You need to be very familiar with Azure Portal, know how to search for resources and create them quickly. Make use of tooltips (usually under small "?" icon), they often explain details you will need to finish the lab in case you don't remember details for a service or resource.
+There are labs, but you just navigate through portal and identify information or fix problems. You need to be very familiar with Azure Portal, but it's not as critical as for AZ-300. Know how to search for resources and create them quickly. Make use of tool tips (usually under small "?" icon), they often explain details you will need to finish the lab in case you don't remember details for a service or resource.
 
 * [Create free account on Azure and practice!](https://azure.microsoft.com/en-us/free/)
 
