@@ -167,4 +167,13 @@ When I was confident I have enought preparation and understand the material, it 
 
 * Day 10: EXAM! Make sure to get plenty of sleep and schedule the exam in the time when you are most active (for me it is late morning)
 
+### #8: A few thoughts after passing the exam
+
+The exam questions spread was pretty much as advertised, I felt that there were too many quesitons about SQL Databases, but it could be just perception.
+There are labs in this exam (I got 2 labs, 6 questions each). The labs are different than AZ-300 in a sense that you don't need to create or change any Azure resources but rather identify problems and find information needed to answer lab questions. Still, good knowledge of Azure portal is required.
+
+Similarly to AZ-300 exam, it was important to know details of Azure offerings, for example types of premium disks, compute SKUs for App Service Plans, difference between redundancy options or exact differences between storage type V1 and V2. It is important to memorize those details as it is needed during the exam.
+
+At the end the knowledge of those details made all the difference.
+
 ### Good luck :)
