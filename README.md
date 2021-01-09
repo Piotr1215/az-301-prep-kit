@@ -12,24 +12,24 @@ I took a slightly different approach compared to creating learning notes for AZ-
 
 ## Content & Learning Progress
 
-Exam curriculum is based on material update from __December 4, 2019.__. There is also a file in [resources folder](/resources/README.md) that contains unorganized useful information gathered during learning process that needs to be **memorized** or is known to be needed to answer questions.
+Exam curriculum is based on material update from __December 4, 2019.__. There is also a file in [resources folder](resources.md) that contains unorganized useful information gathered during learning process that needs to be **memorized** or is known to be needed to answer questions.
 
 See below announcement from exam page:
 
 > Exam AZ-301: Microsoft Azure Architect Design
 > The content of this exam was updated on __December 4, 2019.__ Please download the Skills measured document below to see what changed.
 
-* [x] [Determine workload requirements (10-15%)](/1-workload-requirements/README.md)
+* [x] [Determine workload requirements (10-15%)](1-workload-requirements.md)
 
-* [x] [Design for identity and security (20-25%)](/2-identity-&-security/README.md)
+* [x] [Design for identity and security (20-25%)](2-identity-security.md)
 
-* [x] [Design a data platform solution (15-20%)](/3-data-platform/README.md)
+* [x] [Design a data platform solution (15-20%)](3-data-platform.md)
 
-* [x] [Design a business continuity strategy (15-20%)](/4-business-continiuty/README.md)
+* [x] [Design a business continuity strategy (15-20%)](4-business-continiuity.md)
 
-* [x] [Design for deployment, migration, and integration (10-15%)](/5-deploy-migrate-integrate/README.md)
+* [x] [Design for deployment, migration, and integration (10-15%)](5-deploy-migrate-integrate.md)
 
-* [x] [Design an infrastructure strategy (15-20%)](/6-infrastructure/README.md)
+* [x] [Design an infrastructure strategy (15-20%)](6-infrastructure.md)
 
 ## Resources
 
