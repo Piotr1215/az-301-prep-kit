@@ -177,3 +177,7 @@ Similarly to AZ-300 exam, it was important to know details of Azure offerings, f
 At the end the knowledge of those details made all the difference.
 
 ### Good luck :)
+
+## Consider contributing
+
+[Contribute to the repo](CONTRIBUTING.md)
