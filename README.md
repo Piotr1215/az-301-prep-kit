@@ -115,7 +115,7 @@ Az-301 is focusing on design strategies and architecture using Azure services an
 
 2. Duration: 3,5 hours
 
-   * Schedule 30 minutes for reading and understangin instructions and rest for actal exam.
+   * Schedule 30 minutes for reading and understanding instructions and rest for actal exam.
 
    * Take your time with the questions, it is important to read carefully with understanding. I have finished the exam more than 1 hour before end time, so there is plenty of time.
 
